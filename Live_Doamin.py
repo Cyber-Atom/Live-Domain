@@ -23,7 +23,7 @@ print('')
 def Parse():
     choose = OptionParser()
     choose.add_option("-l","--list",dest="list",help="Sub/domains list to check it")
-    choose.add_option("-o","--output",dest="save",help="Save results in txt file")
+    choose.add_option("-o","--output",dest="save",help="Save results in file")
     return choose.parse_args()
     if not options.list:
         print('[-] Please use -l and enter the domains list or use --help for more')
