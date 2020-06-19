@@ -17,7 +17,7 @@ Usage: Live-Domain.py [options]
 Options:
   -h, --help            show this help message and exit
   -l LIST, --list=LIST  Sub/domains list to check it
-  -s SAVE, --save=SAVE  Save results in txt file
+  -o SAVE, --output=SAVE  Save results in txt file
 
 
 ```
