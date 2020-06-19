@@ -72,4 +72,6 @@ def fast():
     thread.join()
 
 
-fast()
+thread = threading.Thread(target=fast)
+thread.start()
+thread.join()
