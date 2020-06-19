@@ -1,8 +1,8 @@
-#Author: Zeyad Azima "Cyber-Atom"
-#Github: https://github.com/Cyber-Atom
-#Facebook: https://www.facebook.com/elkingzeyad.azeem
-#Website: https://cyberatom.org/
-#Version: v0.1
+#Author:    Zeyad Azima "Cyber-Atom"
+#Github:    https://github.com/Cyber-Atom
+#Facebook:  https://www.facebook.com/elkingzeyad.azeem
+#Website:   https://cyberatom.org/
+#Version:   v0.1
 
 import requests
 import os
