@@ -29,9 +29,9 @@ pip3 install -r requirements.txt
 # Run:
 ```
 # without saving results:
-python3 Live_Doamin.py -l domains.txt
+python3 Live_Domain.py -l domains.txt
 # save results: 
-python3 Live_Doamin.py -l domains.txt -o output.txt
+python3 Live_Domain.py -l domains.txt -o output.txt
 ```
 # About:
 <a href='https://cyberatom.org/'>@ZeyadAzima</a>
